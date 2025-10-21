@@ -1,2 +1,2 @@
 # PROYEC-3_TN
-Conectar github con Netifly
+Conectar github con netlify
